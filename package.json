@@ -1,0 +1,20 @@
+{
+  "name": "sportsReferences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "googleapis": "^134.0.0",
+    "nodemon": "^3.1.0",
+    "puppeteer": "^22.6.2",
+    "readline-sync": "^1.4.10"
+  }
+}
